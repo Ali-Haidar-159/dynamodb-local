@@ -18,8 +18,8 @@ Small Python project to practice CRUD and filter operations against a local Dyna
 ## Setup
 ## Clone
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Ali-Haidar-159/dynamodb-local
+cd dynamodb-local
 ```
 
 ## Install And Run
